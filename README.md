@@ -27,5 +27,7 @@ No diretório "imagens" existe 3 outros diretórios.
 "csv_pixel.csv"
 
 * Primeira coluna: Id (nome do png)
+
 *Segunda coluna: Label (dígito manuscrito na figura)
+
 *..Colunas restantes pixels.
